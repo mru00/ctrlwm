@@ -7,3 +7,22 @@ author: zlatkart
 http://gtk-apps.org/content/show.php/ctrlwm?content=114565
 
 
+
+== Required Packages to build
+
+ * xorg-dev
+ * glib-2.0
+
+
+== Build Instructions
+
+
+make 
+make install
+
+
+(install is ubuntu-specific)
+
+
+
+
