@@ -1,7 +1,6 @@
-=ctrlwm
-
-
-author: zlatkart
+= ctrlwm
+zlatkart
+v0.6.0.5
 
 
 http://gtk-apps.org/content/show.php/ctrlwm?content=114565
