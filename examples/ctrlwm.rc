@@ -1,0 +1,24 @@
+dcw=3			#decoration width
+dch=28			#decoration height
+alternative_layout=0			#use alternative layout                             1=true 
+tilewindowsoorder=0			#tile windows in opening order
+tile_min_win=0			#include minimized windows when tiling
+tile_stripes=0			#tile stripes
+tile_vert=0			#1=tile vertical    0=tile horizontal (tile_stripes has to be 1)
+offset_top=0			#create smaller tiling area 
+offset_bottom=0
+offset_left=0
+offset_right=0
+screen_sec=0			#print screen sections for -z
+win_move_desk=1			#include moving windows to other workspaces for -z
+gui_button_height=40          
+
+#corner/border actions
+cornerNW=ctrlwm  -t#                    # close actions with: #
+cornerSW=
+cornerNE=
+cornerSE=
+borderN=
+borderS=
+borderW=
+borderE=
