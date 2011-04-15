@@ -1,0 +1,5 @@
+bin_PROGRAMS=ctrlwm
+ctrlwm_SOURCES=ctrlwm.c
+
+AM_CFLAGS=$(DEPS_CFLAGS)
+AM_LDFLAGS= $(DEPS_LIBS)
