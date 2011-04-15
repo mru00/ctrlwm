@@ -1,7 +1,7 @@
 = ctrlwm
 
 
-zlatkart
+author: zlatkart
 v0.6.0.5
 
 
@@ -17,13 +17,7 @@ http://gtk-apps.org/content/show.php/ctrlwm?content=114565
 
 == Build Instructions
 
-
+./configure
 make 
 make install
-
-
-(install is ubuntu-specific)
-
-
-
 
