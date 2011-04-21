@@ -17,7 +17,7 @@ http://gtk-apps.org/content/show.php/ctrlwm?content=114565
 
 == Build Instructions
 
-./configure
-make 
-make install
+    ./configure
+    make 
+    make install
 
